@@ -116,3 +116,15 @@ POST /members → Add a new member
 ## 📌 Note
 
 Make sure MongoDB is running locally before starting the backend.
+
+---
+
+## Contributors
+- Pratip Das
+- Asutosh Ranjan
+- Advika Kapoor
+
+---
+
+## License
+This project is developed for academic and learning purposes.
